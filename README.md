@@ -1,2 +1,14 @@
-# CS4320PlanTripProject
-Plan Trip Project of CS4320 : Software Engineering 
+## CS4320 Plan Trip Project
+
+[Link go to CS4320 Main Repository](https://github.com/YiheWang/CS4320)
+
+Team Member:
+ - Yihe Wang (Scrum Master)
+ - Yi Zhao
+ - Boao Huang
+ - Tianyuan Deng
+ - Jiacong Ma
+ - Xiaowei Liu
+ 
+ Constraints: 6 people from Nanjing, Jiang Su are going to touring the Great Wall, the Forbidden City and other Tourist attractions in Beijing. This trip is from July 1 through July 7. The budget for this trip is ￥15000.
+
