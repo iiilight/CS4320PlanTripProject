@@ -32,3 +32,9 @@ We normally eat dinner in restaurant , but sometimes we eat in bar.
 
 ### Total Cost
 ¥ 7600
+
+![enter image description here](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530960111143&di=be96751c2c017eac21f3ce53d387cdc6&imgtype=0&src=http://imgsrc.baidu.com/imgad/pic/item/7af40ad162d9f2d36855cc72a3ec8a136227cce3.jpg)
+
+![enter image description here](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530960183640&di=d9200d843affdde2ff48a3fff71aba2b&imgtype=0&src=http://imgsrc.baidu.com/imgad/pic/item/0ff41bd5ad6eddc4bcd2616633dbb6fd52663372.jpg)
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530960214939&di=9716845a58c0a16c3fc48934b5d03c1b&imgtype=0&src=http%3A%2F%2Fp1.qhimgs4.com%2Ft0105c170e6002c0aa9.jpg)
